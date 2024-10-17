@@ -15,3 +15,9 @@ In this project, I utilized Python libraries to extract financial data and visua
   - Gathered GameStop's revenue data similarly using web scraping methods.
 - Data Visualization:
   - Created visual representations of the stock data using Python plotting libraries, providing insights into stock performance and revenue trends.
+
+## Technologies Used:
+- **Python**: The main programming language used for data extraction and visualization.
+- **yfinance**: A library for accessing stock market data from Yahoo Finance.
+- **Beautiful Soup**: Used for web scraping to extract revenue data.
+- **Matplotlib/Seaborn**: Libraries used for creating graphs and visualizations.
